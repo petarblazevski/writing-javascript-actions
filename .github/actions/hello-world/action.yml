@@ -18,5 +18,5 @@ inputs:
     required: false
 
 runs:
-	using: "node12"
-	main: "main.js"
+  using: "node12"
+  main: "main.js"
